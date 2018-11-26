@@ -2,7 +2,7 @@
 Projet en cours de construction
 
 # Environnement Python
-Cet environnement permet de mettre en place les 2 modèle utilisé:
+Cet environnement permet de mettre en place les 2 modèle utilisé: \n
 Le modèle TuriCreate de détection d'objets
 Le modèle Keras de reconnaissance faciale
 
